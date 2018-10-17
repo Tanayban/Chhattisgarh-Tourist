@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "378971328172",
+    "firebase_url": "https://chhatisgarh-tourist-7faff.firebaseio.com",
+    "project_id": "chhatisgarh-tourist-7faff",
+    "storage_bucket": "chhatisgarh-tourist-7faff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378971328172:android:d307e8da4d58c16e",
+        "android_client_info": {
+          "package_name": "com.example.user.chhatisgarhtourist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378971328172-ocgoch3fs8mempvoj5mo8m5eus58qqcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFYIhdTQx1VUynjdr0aNqzqPBz6xxTILw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
